@@ -1,5 +1,3 @@
-package Basic;
-
 import java.util.Scanner;
 public class LargestOfThreeInput {
 @SuppressWarnings("ConvertToTryWithResources")
@@ -16,3 +14,4 @@ System.out.println("Largest: " + max);
 sc.close();
 }
 }
+ 
